@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.dao.LaifangdengjiDao">
+
+	<!-- 可根据自己的需求，是否要使用 -->
+    <resultMap type="com.entity.LaifangdengjiEntity" id="laifangdengjiMap">
+        <result property="qinshihao" column="qinshihao"/>
+        <result property="laifangmingdan" column="laifangmingdan"/>
+        <result property="laifangrenshu" column="laifangrenshu"/>
+        <result property="guanxi" column="guanxi"/>
+        <result property="laifangshijian" column="laifangshijian"/>
+        <result property="likaishijian" column="likaishijian"/>
+        <result property="beizhu" column="beizhu"/>
+    </resultMap>
+
+	<select id="selectListVO"
+		resultType="com.entity.vo.LaifangdengjiVO" >
+		SELECT * FROM laifangdengji  laifangdengji         
+        <where> 1=1 ${ew.sqlSegment}</where>
+	</select>
+	
+	<select id="selectVO"
+		resultType="com.entity.vo.LaifangdengjiVO" >
+		SELECT  laifangdengji.* FROM laifangdengji  laifangdengji 	
+ 		<where> 1=1 ${ew.sqlSegment}</where>
+	</select>
+
+    <select id="selectListView"
+		resultType="com.entity.view.LaifangdengjiView" >
+
+		SELECT  laifangdengji.* FROM laifangdengji  laifangdengji 	        
+        <where> 1=1 ${ew.sqlSegment}</where>
+	</select>
+	
+	<select id="selectView"
+		resultType="com.entity.view.LaifangdengjiView" >
+		SELECT * FROM laifangdengji  laifangdengji <where> 1=1 ${ew.sqlSegment}</where>
+	</select>
+	
+
+</mapper>
