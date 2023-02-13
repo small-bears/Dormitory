@@ -2,8 +2,6 @@
 
 ## 一、 项目介绍
 基于SSM的宿舍管理系统(包含论文+PPT)
-<h2 id="uee142c35" class="ne-p"><span class="ne-text">视频演示</span></h2>
-<p style="text-align: center;"><strong><span class="ne-text">建议点击这个</span><a style="color: #ff0000;" href="https://www.bilibili.com/video/BV1eD4y1E7XV/?spm_id_from=333.999.0.0&amp;vd_source=b5789de9f485ad6d0cfaeca1ad4b230c">“链接”</a>查看高清视频</strong></p>
 角色：管理员、宿舍管理员、学生
 
 管理员功能：
@@ -22,6 +20,11 @@
   1、查看通知信息
   2、报修、查看回复
   4、查看来访人员信息、宿舍评分、缺勤信息
+  
+ ## 二、 视频演示
+
+<p style="text-align: center;"><strong><span class="ne-text">建议点击这个</span><a style="color: #ff0000;" href="https://www.bilibili.com/video/BV1eD4y1E7XV/?spm_id_from=333.999.0.0&amp;vd_source=b5789de9f485ad6d0cfaeca1ad4b230c">“链接”</a>查看高清视频</strong></p>
+
 ## 二、 运行环境
   开发语言：Java
 
