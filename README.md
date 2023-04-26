@@ -43,7 +43,7 @@
 
   前端：JSP+CSS+JS+JQUERY+Layui
 
-4.运行截图（点图片可放大）
+ ## 四、运行截图（点图片可放大）
 ![}%U2S8TO`$QSA)WW1WZHR{3](https://user-images.githubusercontent.com/124327024/216582414-3dd0ea1e-30e1-47b5-af56-16ebcbc8c403.png)
 ![4RP_89PFPKYNF91@CJC`VM0](https://user-images.githubusercontent.com/124327024/216582424-ca2872f9-7dc7-4232-b53d-95c0c8fd53df.png)
 ![7}{B0}~H%}J$@9UJ6J$%DZX](https://user-images.githubusercontent.com/124327024/216582427-7410df19-de28-4cd2-aff2-2f32b3d4c85f.png)
