@@ -21,10 +21,10 @@
   2、报修、查看回复
   4、查看来访人员信息、宿舍评分、缺勤信息
  
-
 ## 二、 视频演示
 <p style="text-align: center;"><strong><span class="ne-text">建议点击这个</span><a style="color: #ff0000;" href="https://www.bilibili.com/video/BV1eD4y1E7XV/?spm_id_from=333.999.0.0&amp;vd_source=b5789de9f485ad6d0cfaeca1ad4b230c">“链接”</a>查看高清视频</strong></p>
-## 二、 运行环境
+
+## 三、 运行环境
   开发语言：Java
 
   开发工具：IDEA，Eclipse,Myeclipse都可以。推荐IDEA
@@ -37,12 +37,12 @@
 
 项目管理：Maven
 
-## 三、项目技术
+## 四、项目技术
   后端：SSM(Spring+SpringMVC+Mybatis)
 
   前端：JSP+CSS+JS+JQUERY+Layui
 
- ## 四、运行截图（点图片可放大）
+ ## 物、运行截图（点图片可放大）
 ![}%U2S8TO`$QSA)WW1WZHR{3](https://user-images.githubusercontent.com/124327024/216582414-3dd0ea1e-30e1-47b5-af56-16ebcbc8c403.png)
 ![4RP_89PFPKYNF91@CJC`VM0](https://user-images.githubusercontent.com/124327024/216582424-ca2872f9-7dc7-4232-b53d-95c0c8fd53df.png)
 ![7}{B0}~H%}J$@9UJ6J$%DZX](https://user-images.githubusercontent.com/124327024/216582427-7410df19-de28-4cd2-aff2-2f32b3d4c85f.png)
